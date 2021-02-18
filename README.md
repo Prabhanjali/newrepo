@@ -22,12 +22,12 @@
 [github](https://github.com/Prabhanjali/newrepo/edit/main/README.md)
 
 **Table**
-|Name|college|Branch|
-|-----|-----|-----|
-anjali|vr|cse|
-yamini|vr|cse|
-pavani|jntu|eee|
-bharagavi|pb|degree|
+Name|college|Branch
+-----|-----|-----
+anjali|vr|cse
+yamini|vr|cse
+pavani|jntu|eee
+bharagavi|pb|degree
 
 **Code**
 ```
